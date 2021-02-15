@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mReadyTechTest</string>
+    <string name="fetching_markdown">## Fetching</string>
+    <string name="readme_caps">README</string>
+</resources>
